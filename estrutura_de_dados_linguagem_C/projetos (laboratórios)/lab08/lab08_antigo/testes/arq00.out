@@ -1,0 +1,14 @@
+Ponto C001 adicionado com coordenadas (26,12).
+Ponto C002 adicionado com coordenadas (34,89).
+Ponto C003 adicionado com coordenadas (66,49).
+Ponto C004 adicionado com coordenadas (17,28).
+Ponto C005 adicionado com coordenadas (86,14).
+Ponto C006 adicionado com coordenadas (72,95).
+Ponto C007 adicionado com coordenadas (90,50).
+Ponto C008 adicionado com coordenadas (9,46).
+Ponto C009 adicionado com coordenadas (46,57).
+Ponto C010 adicionado com coordenadas (50,75).
+I; I; V; C002 (34,89); V; C009 (46,57); I; I; V; C006 (72,95); C010 (50,75); V; V; V; C007 (90,50); I; I; C008 (9,46); V; V; C004 (17,28); V; V; C001 (26,12); I; C003 (66,49); V; V; C005 (86,14); 
+Ponto C006 removido!
+I; I; V; C002 (34,89); V; C009 (46,57); I; C010 (50,75); V; V; C007 (90,50); I; I; C008 (9,46); V; V; C004 (17,28); V; V; C001 (26,12); I; C003 (66,49); V; V; C005 (86,14); 
+Sistema encerrado.
